@@ -1,5 +1,11 @@
 # Idea Rank
 
+Sometimes you have a lot of ideas that you're struggling to decide from; this is known as a "good problem".
+
+If the indecision is slowing you down then that's not bueno.
+
+This app forces you to compare them and until you get to your top idea.
+
 1. Make an `ideas.txt` file with one idea per line:
 
 ```
